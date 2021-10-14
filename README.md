@@ -51,6 +51,10 @@ My name is Dominik Ferenc and I'm a software engineer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=Linux-Ubuntu-Server-Statistics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/DominikFerenc/WebScannerPort">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=WebScannerPort&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
  
 
