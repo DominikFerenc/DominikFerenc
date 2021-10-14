@@ -32,7 +32,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 </a>
 
 <a href="https://github.com/DominikFerenc/Linux-Ubuntu-Server-Statistics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=pLinux-Ubuntu-Server-Statistics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=Linux-Ubuntu-Server-Statistics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
