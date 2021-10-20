@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is <b style="color:green">Dominik Ferenc</b> and I'm a software engineer.
+My name is <b><strong>Dominik Ferenc</strong></b> and I'm a software engineer.
 
 
 ## 🔗 Social Links
