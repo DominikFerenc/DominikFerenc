@@ -68,8 +68,8 @@ My name is Dominik and I'm a software engineer.
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+<!-- [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding) -->
 
 
 
@@ -77,7 +77,7 @@ My name is Dominik and I'm a software engineer.
 
 
 [2]: https://github.com/DominikFerenc
-<!--[3]: https://www.linkedin.com/in/heinz-martin/-->
+[3]: https://www.linkedin.com/in/dominik-ferenc/
 
 
 <!-- Resources -->
