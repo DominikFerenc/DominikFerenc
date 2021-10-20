@@ -7,9 +7,9 @@
 My name is Dominik and I'm a software engineer.
 
 
-## Social Links
+## 🔗 Social Links
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dominik-ferenc//)  
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dominik-ferenc//)  
 
 
 ## 🔧 Technologies & Tools
