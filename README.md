@@ -9,7 +9,7 @@ My name is Dominik and I'm a software engineer.
 
 ## 🔗 Social Links
 
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dominik-ferenc/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/dominik-ferenc/)  
 
 
 ## 🔧 Technologies & Tools
