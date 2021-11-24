@@ -9,7 +9,8 @@ My name is <span style="color:green"><b><strong>Dominik Ferenc</strong></b></spa
 
 ## 🔗 Social Links
 
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/dominik-ferenc/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/dominik-ferenc/)
+[<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt='email' height='40'>](dominikferenc1995@gmail.com)  
 
 
 
