@@ -58,12 +58,12 @@ My name is <span style="color:green"><b><strong>Dominik Ferenc</strong></b></spa
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DominikFerenc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dominik GitHub Stats" />
 </a>
 
-<a href="https://github.com/DominikFerenc/Linux-Ubuntu-Server-Statistics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=Linux-Ubuntu-Server-Statistics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/DominikFerenc/Web_Shop_Project_Back-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=Web_Shop_Project_Back-end&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/DominikFerenc/WebScannerPort">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=WebScannerPort&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/DominikFerenc/CurrencyExchangeApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DominikFerenc&repo=CurrencyExchangeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
